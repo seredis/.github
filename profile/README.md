@@ -1,4 +1,4 @@
-[seredis](https://github.com/seredis/) is the home of SE.Redis - i.e. StackExchange.Redis
+[seredis](https://github.com/seredis/) is the home of SE.Redis aka StackExchange.Redis
 
 The StackExchange.Redis library was originally created and maintained by Stack Exchange Inc. and made available to the public via the MIT license.
 
